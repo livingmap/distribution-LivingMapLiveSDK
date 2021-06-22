@@ -6,55 +6,39 @@
 	<dict>
 		<key>Headers/LivingMapLiveSDK-Swift.h</key>
 		<data>
-		EAXd1BT5Fk8BKTlTYX6qWwO02Rc=
+		e0lT+RnV4DF8lJFoLwVmGcv0UdQ=
 		</data>
 		<key>Headers/LivingMapLiveSDK.h</key>
 		<data>
-		VIs9zZK2aJoZyuKkg6GD3ovO7iM=
+		dBWjIOFMkXvV0ZbOZcvpybZNNA8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		830+K3Kjv9YYyWLKSDNdRujlMoI=
+		Rw1rVSJkZ4yj58fM7UHJUC0sNpw=
 		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/arm.swiftdoc</key>
+		<key>Modules/LivingMapLiveSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
+		qSqf8zCgirkjvFDSO6lsVTSFZCc=
 		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/arm.swiftmodule</key>
+		<key>Modules/LivingMapLiveSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		xtEceWcQhyNfcEq51wqDebs9WXk=
+		qSqf8zCgirkjvFDSO6lsVTSFZCc=
 		</data>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		pLubJ4rhf/qqJ3QEP5NMP3W/VCY=
+		8Rlhhlf7XHETe8zYnaRCRgpvKBQ=
 		</data>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nqKWgsP/RnwzL3IcPaWLhfCWMxY=
+		DauBeigRhXoABNhnuCfgQz9ugUg=
 		</data>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		pLubJ4rhf/qqJ3QEP5NMP3W/VCY=
+		8Rlhhlf7XHETe8zYnaRCRgpvKBQ=
 		</data>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		nqKWgsP/RnwzL3IcPaWLhfCWMxY=
-		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<data>
-		2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
-		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<data>
-		xtEceWcQhyNfcEq51wqDebs9WXk=
-		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7.swiftdoc</key>
-		<data>
-		2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
-		</data>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7.swiftmodule</key>
-		<data>
-		xtEceWcQhyNfcEq51wqDebs9WXk=
+		DauBeigRhXoABNhnuCfgQz9ugUg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,142 +49,62 @@
 	<dict>
 		<key>Headers/LivingMapLiveSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EAXd1BT5Fk8BKTlTYX6qWwO02Rc=
-			</data>
 			<key>hash2</key>
 			<data>
-			FrCCt75+YeNcpAM3kUierpW28hR38W9V7K8pcv0NwQc=
+			CveaKGihBVEO6UVv6miI4Sb4wl32QxvocBsdPUW+t0A=
 			</data>
 		</dict>
 		<key>Headers/LivingMapLiveSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VIs9zZK2aJoZyuKkg6GD3ovO7iM=
-			</data>
 			<key>hash2</key>
 			<data>
-			fzcL5NG4yKoek5NjZcm/IhgcphgbXYrXZQtt5ViJop4=
+			/G5q/9dOD+XUZhv9y9BXuIYg4SDuRBGfEYawSZVxRYI=
 			</data>
 		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/arm.swiftdoc</key>
+		<key>Modules/LivingMapLiveSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
-			</data>
 			<key>hash2</key>
 			<data>
-			RHnkZ204BPL9VFwHsO6BGHnddnqsgXo+zE/7zqC1x/s=
+			tnWx0SqOkrl89MUJNGZhSt0CiamYoem7/KYolrfMEgY=
 			</data>
 		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/arm.swiftmodule</key>
+		<key>Modules/LivingMapLiveSDK.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xtEceWcQhyNfcEq51wqDebs9WXk=
-			</data>
 			<key>hash2</key>
 			<data>
-			nyC/RWdnvou/5oTYxkDFqv+lgYBfy8B0RgD5blmPYbM=
+			tnWx0SqOkrl89MUJNGZhSt0CiamYoem7/KYolrfMEgY=
 			</data>
 		</dict>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pLubJ4rhf/qqJ3QEP5NMP3W/VCY=
-			</data>
 			<key>hash2</key>
 			<data>
-			n5/z6QX3u9uH5Neo8xRw8CxlhQE7mfdDEIcFcVspmao=
+			xglJHjRPqJY6YF8iInFhD0euuPgMKinUeNWWiDAkr/U=
 			</data>
 		</dict>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nqKWgsP/RnwzL3IcPaWLhfCWMxY=
-			</data>
 			<key>hash2</key>
 			<data>
-			tgNAtCuOZCuGnk/1VLgEiPN8uPLH70Wf6f3octPsyX4=
+			FXJVbueVC7O2MG2pMBclGgtldPFR5HK66K2C2qMtUWw=
 			</data>
 		</dict>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pLubJ4rhf/qqJ3QEP5NMP3W/VCY=
-			</data>
 			<key>hash2</key>
 			<data>
-			n5/z6QX3u9uH5Neo8xRw8CxlhQE7mfdDEIcFcVspmao=
+			xglJHjRPqJY6YF8iInFhD0euuPgMKinUeNWWiDAkr/U=
 			</data>
 		</dict>
 		<key>Modules/LivingMapLiveSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nqKWgsP/RnwzL3IcPaWLhfCWMxY=
-			</data>
 			<key>hash2</key>
 			<data>
-			tgNAtCuOZCuGnk/1VLgEiPN8uPLH70Wf6f3octPsyX4=
-			</data>
-		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
-			</data>
-			<key>hash2</key>
-			<data>
-			RHnkZ204BPL9VFwHsO6BGHnddnqsgXo+zE/7zqC1x/s=
-			</data>
-		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xtEceWcQhyNfcEq51wqDebs9WXk=
-			</data>
-			<key>hash2</key>
-			<data>
-			nyC/RWdnvou/5oTYxkDFqv+lgYBfy8B0RgD5blmPYbM=
-			</data>
-		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jGrwmJ4eQl6rdUyxTgiUu8AkJY=
-			</data>
-			<key>hash2</key>
-			<data>
-			RHnkZ204BPL9VFwHsO6BGHnddnqsgXo+zE/7zqC1x/s=
-			</data>
-		</dict>
-		<key>Modules/LivingMapLiveSDK.swiftmodule/armv7.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xtEceWcQhyNfcEq51wqDebs9WXk=
-			</data>
-			<key>hash2</key>
-			<data>
-			nyC/RWdnvou/5oTYxkDFqv+lgYBfy8B0RgD5blmPYbM=
+			FXJVbueVC7O2MG2pMBclGgtldPFR5HK66K2C2qMtUWw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5rVcMDeALPkz1WLII3KzL/rCsxY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z8LJEAmkfIbveoJgxDrbhoK6W4ccghtYHLhLk0QYBQs=
